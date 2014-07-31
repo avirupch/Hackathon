@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Categories>
+  <Category>
+    <Name>Top News</Name>
+    <Image>../Images/TopNews.jpg</Image>
+    <Feed>Feeds/TopNews.xml</Feed>
+    <CategoryId>1</CategoryId>
+  </Category>
+  <Category>
+    <Name>Technology</Name>
+    <Image>../Images/Technology.png</Image>
+    <Feed>Feeds/Technology.xml</Feed>
+    <CategoryId>2</CategoryId>
+  </Category>
+  <Category>
+    <Name>Politics</Name>
+    <Image>../Images/Politics.jpg</Image>
+    <Feed>Feeds/Politics.xml</Feed>
+    <CategoryId>3</CategoryId>
+  </Category>
+  <Category>
+    <Name>Entertainment</Name>
+    <Image>../Images/Entertainment.jpg</Image>
+    <Feed>Feeds/Entertainment.xml</Feed>
+    <CategoryId>4</CategoryId>
+  </Category>
+  <Category>
+    <Name>Finance</Name>
+    <Image>../Images/Finance.jpg</Image>
+    <Feed>Feeds/Finance.xml</Feed>
+    <CategoryId>5</CategoryId>
+  </Category>
+  <Category>
+    <Name>Science</Name>
+    <Image>../Images/Science.png</Image>
+    <Feed>Feeds/Science.xml</Feed>
+    <CategoryId>6</CategoryId>
+  </Category>
+  <Category>
+    <Name>Sports</Name>
+    <Image>../Images/Sports.jpg</Image>
+    <Feed>Feeds/Sports.xml</Feed>
+    <CategoryId>7</CategoryId>
+  </Category>
+</Categories>
